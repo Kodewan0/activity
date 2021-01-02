@@ -1,4 +1,6 @@
 fn main() {
-    let mut_day = "one";
-    println!("Day: {}", mut_day);
+    let mut day = "one";
+    println!("Day: {}", day);
+    day = "two";
+    println!("Day: {}", day);
 }
