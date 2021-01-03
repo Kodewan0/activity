@@ -1,5 +1,5 @@
 fn main() {
-    let mut day = "one";
+    let mut day = "onne";
     println!("Day: {}", day);
     day = "two";
     println!("Day: {}", day);
