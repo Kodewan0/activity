@@ -3,4 +3,6 @@ fn main() {
     println!("Day: {}", day);
     day = "two";
     println!("Day: {}", day);
+    day = "three";
+    println!("Day: {}", day)
 }

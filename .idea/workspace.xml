@@ -47,17 +47,6 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Run" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
       <option name="command" value="run --package activity_repo --bin activity_repo" />
       <option name="workingDirectory" value="file://$PROJECT_DIR$" />
@@ -91,7 +80,9 @@
       <workItem from="1609624054272" duration="50000" />
       <workItem from="1609624946860" duration="127000" />
       <workItem from="1609705132108" duration="1221000" />
-      <workItem from="1609707988513" duration="129000" />
+      <workItem from="1609707988513" duration="961000" />
+      <workItem from="1609708985216" duration="597000" />
+      <workItem from="1609959923223" duration="28000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1609623380435</created>
@@ -114,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609625005472</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2">
+      <created>1609708138539</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1609708138539</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
