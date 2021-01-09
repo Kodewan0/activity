@@ -1,8 +1,10 @@
 fn main() {
     let mut day = "onne";
-    println!("Day: {}", day);
+    println!("{}", day);
     day = "two";
-    println!("Day: {}", day);
+    println!("{}", day);
     day = "three";
-    println!("Day: {}", day)
+    println!("{}", day);
+    day = "four";
+    println!("{}", day);
 }
