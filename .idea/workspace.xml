@@ -4,7 +4,7 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afb76799-ee4e-4804-a110-d351d4e25698" name="Default Changelist" comment="5">
+    <list default="true" id="afb76799-ee4e-4804-a110-d351d4e25698" name="Default Changelist" comment="6">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
     </list>
@@ -85,7 +85,7 @@
       <workItem from="1609959923223" duration="107000" />
       <workItem from="1610211741003" duration="180000" />
       <workItem from="1610231233535" duration="733000" />
-      <workItem from="1610396436576" duration="27000" />
+      <workItem from="1610396436576" duration="1254000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1609623380435</created>
@@ -136,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610231369559</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="6">
+      <created>1610396474409</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1610396474409</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,7 +168,8 @@
     <MESSAGE value="3" />
     <MESSAGE value="4" />
     <MESSAGE value="5" />
-    <option name="LAST_COMMIT_MESSAGE" value="5" />
+    <MESSAGE value="6" />
+    <option name="LAST_COMMIT_MESSAGE" value="6" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
