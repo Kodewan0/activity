@@ -13,4 +13,6 @@ fn main() {
     println!("{}", day);
     day = "seven";
     println!("{}", day);
+    day = "eight";
+    println!("{}", day);
 }
